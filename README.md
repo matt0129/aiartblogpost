@@ -29,7 +29,7 @@ The main downside to these AI-generated artworks at the moment is that at a dist
 
 This radical new area of art has been met with significant controversy, with many artists arguing that it cannot be classified as 'true' art, due to the lack of hands-on work performed by the creator. After all, inserting prompts into a machine and marketing the machine's creation as your own art piece may seem unoriginal. Another complaint is that when prompts include phrases such as 'van gogh' or 'salvador dali', the human is essentially encouraging the machine to 'plagiarize' the artstyle of successful artists in a way that would be difficult for artists to accomplish by hand. While I believe that some of these criticisms are completely valid, my perspective on contemporary art is that any idea with a motivation behind it, such as a blank canvas, can be constituted as art. By using Artificial Intelligence to produce art, we let computers take over a very important part of the creative process - the execution. However, the genesis of the idea still belongs to the human mind, the one who writes and fine-tunes their prompts to match their vision and their message. Furthermore, on the argument of plagiarizing existing artwork, it is also reasonable to argue that no artwork is truly 'original' - even artists such as Van Gogh are heavily influenced by their inspirations and their fellow colleagues. AI art uses existing images merely as a framework to build unique pictures, as so one can argue that even computer-generated visualizations belong in the world of art.
 
-References:
+**References:**
 
 Dhariwal, Prafulla, and Alex Nichol. “Diffusion Models Beat Gans on Image Synthesis.” ArXiv.org, 1 June 2021, https://arxiv.org/abs/2105.05233.
 
