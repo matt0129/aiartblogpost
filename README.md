@@ -33,6 +33,8 @@ References:
 
 Dhariwal, Prafulla, and Alex Nichol. “Diffusion Models Beat Gans on Image Synthesis.” ArXiv.org, 1 June 2021, https://arxiv.org/abs/2105.05233.
 
-Esser, Patrick, Rombach, Robin and Björn Ommer. "Taming Transformers for High-Resolution Image Synthesis". ArXiv.org, "https://arxiv.org/pdf/2012.09841.pdf"
+Esser, Patrick, et al. "Taming Transformers for High-Resolution Image Synthesis". ArXiv.org, "https://arxiv.org/pdf/2012.09841.pdf"
+
+Radford, Alec, et al. “Learning Transferable Visual Models from Natural Language Supervision.” ArXiv.org, 26 Feb. 2021, https://arxiv.org/abs/2103.00020. 
 
 Link to Disco Diffusion (now running v5.61): https://colab.research.google.com/github/alembics/disco-diffusion/blob/main/Disco_Diffusion.ipynb
