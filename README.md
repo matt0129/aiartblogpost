@@ -11,6 +11,10 @@ AI art relies on Machine Learning - the idea of having an input (and an output i
 
 The transformer localizes features of the image by using the 'sliding window' algorithm, which analyzes the image locally by taking a window region and changing the x or y axis values incrementally in each iteration.
 
+VQGAN implements CLIP, or Contrastive Language-Image Pre-training, another machine learning algorithm that provides great assistance in matching our transformed image with text. CLIP simultaneously trains a text encoder and an image encoder to match the most probable pairings of image to text. The process is summarized in the diagram below:
+
+![alt text](https://github.com/openai/CLIP/blob/main/CLIP.png)
+
 Upon the completion of this trained model, we are able to apply it to produce new 'art' - as the machine can now refer to its trained memory and visualize what phrases such as 'an old man sitting in a lighthouse' would look like. This is where the human 'artists' come into play - they are in control of structuring their own creative prompts, and then fine-tuning both the keywords and the settings of the models so that AI can interpret their prompts accordingly and produce visually stunning images. As the neural network is trained to recognize not only individual components, but also art styles and different artistic techniques, the human prompter is free to use advanced keywords such as 'depth-of-field' to create a blurry background, or 'vincent van gogh' to emulate the brushstroke and artstyle of the famous painter. Below are some of my own experiments, using Disco Diffusion v5.4:
 
 ![RAVEN 3-Enhanced](https://user-images.githubusercontent.com/97187816/184056744-271cddc6-7425-4033-ba24-3734353ebabd.jpg)
